@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FakeActivity</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="MadeActivity">Made Activity</string>
+    <string name="default_title">My Android App</string>
+
+</resources>
