@@ -18,7 +18,8 @@
 		android:ems="10"
 		android:layout_width="wrap_content"
 		android:hint="@string/hello_world"
-		android:id="@+id/main_HelloText"/>
+		android:id="@+id/main_HelloText"
+		android:inputType="textMultiLine"/>
 
 	<Button
 		android:layout_height="wrap_content"
