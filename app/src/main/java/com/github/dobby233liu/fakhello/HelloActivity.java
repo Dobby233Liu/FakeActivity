@@ -15,8 +15,6 @@ public class HelloActivity extends Activity{
 	String str2=t2.getStringExtra("title");
 	if (!str.equals("")){
 	hello_hello.setText(t2.getStringExtra("hellotext"));
-	}else{
-	hello_hello.setText(R.string.hello_world);
 	}
 	if (!str2.equals("")){
 	setTitle(str2);
